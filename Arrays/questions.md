@@ -10,7 +10,7 @@ Certainly! Here are the questions with hints, including example inputs and outpu
    **Hint:** Use a loop to add each element of the array to a `sum` variable.
 
 ---
-
+ṁ
 2. **Find Maximum Element in Array:**  
    **Input:** `arr = {15, 42, 7, 89, 33}`  
    **Output:** `89`  
