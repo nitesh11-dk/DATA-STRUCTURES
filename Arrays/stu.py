@@ -24,3 +24,5 @@ students = [
 for stu in students:
     print(f"{stu["nam"]} total marks is {inddex.add(stu["marks"])}")
 
+    
+
