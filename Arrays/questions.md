@@ -91,3 +91,8 @@ Certainly! Here are the questions with hints, including example inputs and outpu
    **Hint:** Initialize `max` with the first element and update it as you compare with every element in the 3D array using three nested loops.
 
 ---
+
+
+
+
+
